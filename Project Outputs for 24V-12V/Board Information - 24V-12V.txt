@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : D:\My Work\github\PCP_24V-12V\24v-12v\24V-12V.PcbDoc
+Date         : 2023/11/12
+Time         : 15:41:59
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 64
+    Connections routed, 64
+    Connections remaining, 0
+count : 4

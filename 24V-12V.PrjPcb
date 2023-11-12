@@ -70,6 +70,31 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HBXWNGIH
 
+[Document3]
+DocumentPath=24V-12V_5X4.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BFQWCCEH
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for 24V-12V\Board Information - 24V-12V.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for 24V-12V\Design Rule Check - 24V-12V.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
